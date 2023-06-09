@@ -3,4 +3,4 @@ As I have learn from SQA Mentor, Udemy Course, and SQA Bootcamp. This repo is fo
 
 Currently I only made for Katalon Studio, practice using (https://www.saucedemo.com/) as example
 
-As for Selenium and Cypress in progress currently on Bootcamp
+As for Selenium and Cypress is in progress currently as I learn on Bootcamp
