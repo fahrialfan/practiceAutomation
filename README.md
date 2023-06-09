@@ -1,6 +1,4 @@
 # praticeAutomation
-As I have learn from SQA Mentor, Udemy Course, and SQA Bootcamp. This repo is for indicate that I can do automation using Katalon/Selenium/Cypress even I do not have work experience related to SQA currently.
+I have learned about automation using Katalon/Selenium/Cypress from SQA Mentor, Udemy Course, and SQA Bootcamp. This repository serves as an indication of my ability to perform automation even though I do not have any work experience related to SQA at the moment.
 
-Currently I only made for Katalon Studio, practice using (https://www.saucedemo.com/) as example
-
-As for Selenium and Cypress is in progress currently as I learn on Bootcamp
+Currently, I have only practiced using Katalon Studio with [https://www.saucedemo.com/] as an example. I am still in the process of learning Selenium and Cypress through the Bootcamp.
